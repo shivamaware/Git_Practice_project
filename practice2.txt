@@ -10,3 +10,5 @@ Hello guys.
 bye guys.
 
 bye bye guys.
+
+Modified to learn stash command.
