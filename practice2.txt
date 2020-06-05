@@ -14,3 +14,5 @@ bye bye guys.
 Modified to learn stash command.
 
 Modified to learn multiple stashes.
+
+Modified to learn git stashe branch.
