@@ -12,3 +12,5 @@ bye guys.
 bye bye guys.
 
 Modified to learn stash command.
+
+Modified to learn multiple stashes.

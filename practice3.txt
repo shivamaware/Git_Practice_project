@@ -8,3 +8,5 @@ Hello again.
 Hello again again
 
 Hello again again again
+
+Modified to learn multiple stashes.
