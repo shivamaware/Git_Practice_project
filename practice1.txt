@@ -3,3 +3,6 @@ Modified in firstbranch
 
 Modified to learn stash command.
 Agian modified to learn stash command.
+
+
+Modified to learn multiple stashes.
